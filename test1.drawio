@@ -1,0 +1,28 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.1">
+  <diagram name="第 1 页" id="xzVyjEXNsjGcMqeVaDii">
+    <mxGraphModel dx="773" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jzp-BVPp5GaXMzY61U_0-1" value="Driver" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="340" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jzp-BVPp5GaXMzY61U_0-3" value="Compiler" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="300" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jzp-BVPp5GaXMzY61U_0-4" value="Runtime" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="40" y="260" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jzp-BVPp5GaXMzY61U_0-5" value="CCL" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="220" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jzp-BVPp5GaXMzY61U_0-6" value="Tool" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="180" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jzp-BVPp5GaXMzY61U_0-7" value="System Software" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="47.5" y="140" width="115" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
